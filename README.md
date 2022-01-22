@@ -10,10 +10,9 @@
 
 ✳️ pip2 install mechanize
 
-
 ✳️ pkg install git
 
-✳️ git clone https://github.com/sasiYabba/SASIY2
+✳️ git clonehttps://github.com/sasiYabba/SASIY2
 
 ✳️ cd SASIY2
 
