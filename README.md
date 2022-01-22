@@ -12,7 +12,7 @@
 
 ✳️ pkg install git
 
-✳️ git clonehttps://github.com/sasiYabba/SASIY2
+✳️ git clone https://github.com/sasiYabba/SASIY2
 
 ✳️ cd SASIY2
 
@@ -20,3 +20,15 @@
 
       
 💘Thank you For Using My Tools💘
+
+Esy command 👇
+
+
+
+git clone https://github.com/sasiYabba/SASIY2
+
+
+cd SASIY2
+
+
+python2 SASI2.py
